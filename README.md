@@ -3,7 +3,7 @@ An introduction to computer vision for working with maps: workshop @DHN 2020
 
 **Registration**:[http://dig-hum-nord.eu/conferences/dhn2020/registration/]()
 
-### Format: full day tutorial at DH Nordic Countries 2020
+### Format: half day virtual workshop at DH Nordic Countries 2020
 
 ### Intended audience
 - researchers, curators and librarians interested in using computer vision with digitised visual materials. 
@@ -13,18 +13,18 @@ An introduction to computer vision for working with maps: workshop @DHN 2020
 
 ### Workshop Description:
 
-One of the challenges in digital humanities is diversifying the types of sources that we can explore with computational methods, whether at scale or in smaller collections. In particular, maps are a rich resource for humanities research which have so far been difficult to examine digitally unless they are georeferenced and features are manually vectorized. Building spatial data from historical sources in this way is too resource-intensive for most scholars. 
+‼️**Note** *this workshop was originally intended to be hosted in person. To accommodate, a new format the description below has been updated and the scope of the workshop is slightly reduced.*‼️ 
 
-New opportunities for working with visual materials using computer vision can be applied to historical maps in digital collections around the world. Not only does this open up the landscape of map analysis methods, it also provides a workflow for map repositories to improve discovery by automatically generating metadata, for example, about subject material, geographical scope, or size.
+One of the challenges in digital humanities is diversifying the types of sources that we can explore with computational methods, whether at scale or in smaller collections. In particular, digitised image collections are a rich resource for humanities research which post particular challengees for working with at scale. 
 
-Computer vision has improved greatly in the last decade thanks to deep learning approaches. For DH, this means that by leveraging ‘transfer learning’, image augmentation and other techniques, minimal training data is sufficient to train accurate models that automate image classification, illustration type detection, and similarity clustering. 
+Computer vision has improved greatly in the last decade thanks to deep learning approaches. For DH, this means that by leveraging ‘transfer learning’, image augmentation and other techniques, minimal training data is sufficient to train accurate models that automate image classification, illustration type detection, and similarity clustering.
 
-The practical components will provide methods that will be useful both for research and curation applications, including; 
-Classifying images automatically (including potential methods for automating some of the quality assurance steps of digitisation work) 
-How to turn maps/images into data 
-Effectively working with large and small (<200) collections of images
-How to evaluate a classification model and understand how well it is working or whether it is the wrong tool
+This workshop will have a practical focus on getting started using computer vision tasks. Theoretical ideas will be introduced when it aids this practical work. This will include 
 
-Although this tutorial will focus primarily on using maps, many of these techniques can be adapted to other types of visual material (for ex., photographic or other art collections, satellite imagery) . 
+- Introducing a pragmatic approach to training image classification models without the need for large resources 
+- How to build a training dataset for training new models. 
+- How to evaluate a classification model and understand how well it is working 
 
-Alongside practical discussions we also want to use the session to discuss how these techniques can help answer research questions, and what it means to turn maps and other visual material into ‘data’. The workshop will draw on work being done as part of the Living with Machines digital history project, http://livingwithmachines.ac.uk/. 
+Although this session won't cover working with maps in detail it will briefly provide an overview of how the techniques introduced in the session can be used for working with digitised map collections. 
+
+The workshop will partially draw on work being done as part of the Living with Machines digital history project: http://livingwithmachines.ac.uk/.
