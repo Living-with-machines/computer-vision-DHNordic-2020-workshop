@@ -1,5 +1,4 @@
-# CV-for-maps-DHNoridic2020workshop
-An introduction to computer vision for working with maps: workshop @DHN 2020
+# An introduction to computer vision for working with maps: workshop @DHN 2020
 
 **Registration**:[http://dig-hum-nord.eu/conferences/dhn2020/registration/]()
 
