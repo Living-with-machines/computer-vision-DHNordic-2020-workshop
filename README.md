@@ -1,6 +1,15 @@
 # An introduction to computer vision for working with digitised heritage collections: workshop @DHN 2020
 
-**Registration**:[http://dig-hum-nord.eu/conferences/dhn2020/registration/]()
+
+## Workshop materials 
+
+- Colab notebooks:
+  - Notebook 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/computer-vision-DHNoridic-2020-workshop/blob/notebooks/dhn-01-Computer_vision_intro_Part_I.ipynb)
+  - Notebook 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/computer-vision-DHNoridic-2020-workshop/blob/notebooks/dhn-02-Computer_vision_intro_Part_II.ipynb)
+
+---
+
+~**Registration**:[http://dig-hum-nord.eu/conferences/dhn2020/registration/]()~
 
 ### Format: half day virtual workshop at DH Nordic Countries 2020
 
