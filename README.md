@@ -4,8 +4,8 @@
 ## Workshop materials 
 
 - Colab notebooks:
-  - Notebook 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/computer-vision-DHNoridic-2020-workshop/blob/notebooks/dhn-01-Computer_vision_intro_Part_I.ipynb)
-  - Notebook 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/computer-vision-DHNoridic-2020-workshop/blob/notebooks/dhn-02-Computer_vision_intro_Part_II.ipynb)
+  - Notebook 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/computer-vision-DHNoridic-2020-workshop/blob/master/dhn-01-Computer_vision_intro_Part_I.ipynb)
+  - Notebook 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davanstrien/computer-vision-DHNoridic-2020-workshop/blob/master/dhn-02-Computer_vision_intro_Part_II.ipynb)
 
 ---
 
